@@ -1,0 +1,1 @@
+ALTER TABLE public.attendance ALTER COLUMN site_id DROP NOT NULL;
